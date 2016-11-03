@@ -3,4 +3,4 @@ A simple debian based docker image with cron.  It is based on litalidev/docker-b
 
 To build, just issue
 
-  docker build -t litadev/docker-base-cron .
+  docker build -t litalidev/docker-base-cron .
