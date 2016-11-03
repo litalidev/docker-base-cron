@@ -11,6 +11,7 @@ To test
   1. docker run -d --restart=always -h debian8c -p 22:22 --name basecron001 litalidev/docker-base-cron
   2. putty/ssh to the host computer
   3. login root/rootpw
+  4. check the /tmp/crontest.log
 
 
 Note
