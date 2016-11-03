@@ -8,7 +8,7 @@ To build, just issue
 
 
 To test
-  1. docker run -d --restart=always -h debian8d -p 22:22 --name base001 docker-base
+  1. docker run -d --restart=always -h debian8c -p 22:22 --name basecron001 docker-base-cron
   2. putty/ssh to the host computer
   3. login root/rootpw
 
