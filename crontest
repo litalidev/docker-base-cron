@@ -1,0 +1,1 @@
+* * * * * echo "Last run on `date` by `whoami`" > /tmp/crontest.log;rm -f /tmp/crontest; crontab -r 2>&1
